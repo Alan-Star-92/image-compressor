@@ -1,11 +1,21 @@
-# 图片压缩工具
+# Image Compressor
 
 这是一个简单的在线图片压缩工具，帮助用户快速压缩图片文件。
 
-## 功能特点
-- 支持多种图片格式
-- 在线压缩，无需下载软件
-- 快速且高效
+## Features
+- Support PNG and JPG image formats
+- Real-time preview of original and compressed images
+- Adjustable compression quality
+- File size comparison
+- One-click download
+- Modern Apple-style interface
+- Responsive design for all devices
 
-## 访问地址
+## Live Demo
 https://alan-star-92.github.io/image-compressor/
+
+## Updates
+- Added real-time image preview
+- Improved UI with Apple-style design
+- Added compression quality control
+- Added drag and drop support
